@@ -1,0 +1,16 @@
+header {
+    background-color:#383D58;
+    color:white;
+    display:flex;
+    }
+    .gabeçalho-imagem{ 
+        width: 20px;
+    }
+    .gabeçalho-lista-item{
+        display: inline-block;
+        margin: 0 16px;
+    }
+    *{
+        margin: 0 16px;
+        padding: 24px 0;
+    }
